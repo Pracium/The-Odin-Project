@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+h1 {
+    color: darkred;
+}
+
+h2 {
+    color: crimson;
+}
+
+ul, ol {
+    text-align: start;
+    
+}
+
+p, li {
+    color: brown;
+}
